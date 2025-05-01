@@ -1,7 +1,7 @@
 import React from 'react'
 import ProjectCard from './Projects'
 import { motion } from 'framer-motion'
-import { ntgLineImg, blogImg, youtubeImg } from '../../assets'
+import { NTG, blogImg, youtubeImg } from '../../assets'
 import {ChevronRight} from 'lucide-react'
 
 function ProjectCatogry() {
@@ -28,7 +28,7 @@ function ProjectCatogry() {
                 title="Nadra Token web Application"
                 description="A web-based system designed to streamline the token generation process for NADRA offices. It allows users to book tokens online,helping to reduce long waiting times and improve service efficiency. The application features a user-friendly interface, real-time updates, and secure data handling."
                 tags={["React.js", "Node.js", "Express.js", "MongoDB",]}
-                image={ntgLineImg}
+                image={NTG}
                 delay={0}
               />
               <ProjectCard
