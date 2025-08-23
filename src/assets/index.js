@@ -1,6 +1,13 @@
-import asmatImg from './asmat.png'
-import blogImg from './blogImg.jpeg'
-import NTG from './NTG.jpeg'
-import youtubeImg from './youtubeImg.jpeg'
+import asmatImg from "./asmat.webp";
+import blogImg from "./blogImg.webp";
+import NTG from "./NTG.webp";
+import jobSiteRoute from "./jobSiteRoute.webp";
+import Tracking from "./Tracking.webp";
 
-export {asmatImg, blogImg,youtubeImg, NTG}
+export const assets = {
+  asmatImg,
+  blogImg,
+  NTG,
+  jobSiteRoute,
+  Tracking,
+};
