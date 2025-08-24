@@ -24,7 +24,7 @@ function ProjectCard({ data }) {
         <p className="text-neutral-600 mb-4">{data.desc}</p>
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="bg-teal-100 text-teal-800 text-xs px-2 py-1 rounded">
-            {data.tag}
+            {data.tags}
           </span>
         </div>
         <div className="flex space-x-3">
