@@ -18,7 +18,7 @@ function ProjectCatogry() {
       title: "JobSiteRoute",
       desc: "A modern job portal developed using React.js and Tailwind CSS. It helps users explore job opportunities, learn about services, get referrals, and easily connect through the contact page. Designed with a responsive and user-friendly interface for a smooth experience across devices.",
       tags: "React + Tailwind CSS",
-      image: assets.jobSiteRoute,
+      image: assets.jobSiteRouteImg,
       href: "https://jobsiteroute.netlify.app/",
       gitHub: "https://github.com/Asmatbangash/JobSite",
     },

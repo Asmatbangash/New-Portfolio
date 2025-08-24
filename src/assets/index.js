@@ -1,13 +1,13 @@
 import asmatImg from "./asmat.webp";
 import blogImg from "./blogImg.webp";
 import NTG from "./NTG.webp";
-import jobSiteRoute from "./jobSiteRoute.webp";
+import jobSiteRouteImg from "./jobSiteRouteImg.webp";
 import Tracking from "./Tracking.webp";
 
 export const assets = {
   asmatImg,
   blogImg,
   NTG,
-  jobSiteRoute,
+  jobSiteRouteImg,
   Tracking,
 };
