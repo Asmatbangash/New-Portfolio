@@ -25,16 +25,15 @@ function Main({ motion, GitHub, Linkedin, Mail }) {
                 Hi, I'm <span className="text-teal-600">Asmat Ullah</span>
               </h1>
               <h2 className="text-xl md:text-2xl mb-6 text-neutral-600">
-                Full-Stack Web Developer
+                Frontend Web Specialist
               </h2>
               <p className="text-neutral-600 mb-8 max-w-lg">
-                A passionate Full-Stack Web Developer specializing in the MERN
-                stack. I recently completed my Bachelor's degree in Computer
-                Science from The Agriculture University of Peshawar. I enjoy
-                building fast, responsive web applications that solve real-world
-                problems. I have also completed a Full-Stack Development
-                internship at p92 IT Software House. Explore my projects and
-                feel free to get in touch!
+                Passionate Frontend Web Developer with expertise in building
+                clean, responsive, and user-friendly interfaces. Strong
+                foundation in Computer Science with proven experience during my
+                internship at p92 IT Software House, where I developed scalable
+                and modern web applications. Dedicated to creating engaging user
+                experiences and continuously improving frontend performance.
               </p>
               <div className="flex space-x-4">
                 <a
