@@ -23,11 +23,11 @@ function ProjectCatogry() {
       gitHub: "https://github.com/Asmatbangash/Tracking",
     },
     {
-      title: "JobSiteRoute",
-      desc: "A modern job portal developed using React.js and Tailwind CSS. It helps users explore job opportunities, learn about services, get referrals, and easily connect through the contact page. Designed with a responsive and user-friendly interface for a smooth experience across devices.",
-      tags: "React + Tailwind CSS",
-      image: assets.project3,
-      href: "https://jobsiteroute.netlify.app/",
+      title: "QuickNOte App",
+      desc: "QuickNote App is a full-stack note-taking application developed using the MERN stack. It enables users to quickly create, edit, update, and delete notes with secure data storage in MongoDB. Designed with a responsive and user-friendly interface, it ensures smooth functionality and efficient note management across devices.",
+      tags: "MERN Stack + Tailwind CSS",
+      image: assets.QuickNoteApp,
+      href: "https://quick-note-orpin.vercel.app/",
       gitHub: "https://github.com/Asmatbangash/JobSite",
     },
   ];
