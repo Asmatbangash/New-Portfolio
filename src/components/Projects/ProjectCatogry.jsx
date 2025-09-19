@@ -15,20 +15,20 @@ function ProjectCatogry() {
       gitHub: "",
     },
     {
-      title: "JobSiteRoute",
-      desc: "A modern job portal developed using React.js and Tailwind CSS. It helps users explore job opportunities, learn about services, get referrals, and easily connect through the contact page. Designed with a responsive and user-friendly interface for a smooth experience across devices.",
-      tags: "React + Tailwind CSS",
-      image: assets.project2,
-      href: "https://jobsiteroute.netlify.app/",
-      gitHub: "https://github.com/Asmatbangash/JobSite",
-    },
-    {
       title: "Tracking Site",
       desc: "A responsive tracking application built with React.js and Tailwind CSS. It provides real-time tracking, route history, and optimized performance for users on any device. Focused on delivering a clean UI and seamless experience with reusable components.",
       tags: "React + Tailwind CSS",
-      image: assets.project3,
+      image: assets.project2,
       href: "https://trackingsitemk.netlify.app/",
       gitHub: "https://github.com/Asmatbangash/Tracking",
+    },
+    {
+      title: "JobSiteRoute",
+      desc: "A modern job portal developed using React.js and Tailwind CSS. It helps users explore job opportunities, learn about services, get referrals, and easily connect through the contact page. Designed with a responsive and user-friendly interface for a smooth experience across devices.",
+      tags: "React + Tailwind CSS",
+      image: assets.project3,
+      href: "https://jobsiteroute.netlify.app/",
+      gitHub: "https://github.com/Asmatbangash/JobSite",
     },
   ];
 

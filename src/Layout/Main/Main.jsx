@@ -25,23 +25,27 @@ function Main({ motion, GitHub, Linkedin, Mail }) {
                 Hi, I'm <span className="text-teal-600">Asmat Ullah</span>
               </h1>
               <h2 className="text-xl md:text-2xl mb-6 text-neutral-600">
-                Frontend Web Specialist
+                Full Stack | MERN Stack Web Developer
               </h2>
               <p className="text-neutral-600 mb-8 max-w-lg">
-                Passionate Frontend Web Developer with expertise in building
-                clean, responsive, and user-friendly interfaces. Strong
-                foundation in Computer Science with proven experience during my
-                internship at p92 IT Software House, where I developed scalable
-                and modern web applications. Dedicated to creating engaging user
-                experiences and continuously improving frontend performance.
+                Motivated Full Stack Developer with expertise in the MERN stack
+                (MongoDB, Express.js, React.js, Node.js) and modern frontend
+                technologies. Skilled in building responsive, scalable, and
+                user-friendly web applications, with hands-on experience from my
+                role at MK Smart Technologies. Passionate about clean code,
+                performance optimization, and delivering seamless digital
+                solutions.
               </p>
               <div className="flex space-x-4">
                 <a
-                  href="#contact"
+                  href="https://wa.me/923356976877"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="bg-teal-600 hover:bg-teal-700 text-white px-6 py-3 rounded-md transition-colors"
                 >
                   Contact Me
                 </a>
+
                 <a
                   href="https://github.com/Asmatbangash"
                   className="border border-teal-600 text-teal-600 hover:bg-teal-50 px-6 py-3 rounded-md transition-colors"
